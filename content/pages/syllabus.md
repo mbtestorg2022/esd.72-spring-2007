@@ -57,43 +57,328 @@ For ESD.72, there will be several problem sets (which will count for about 25% o
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 25% |
-| Three quizzes | 75% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part 1: Reliability and probabilistic risk assessment (RPRA)**{{< /td-colspan >}} ||
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} RPRA1: The logic of certainty {{< br >}}{{< br >}}  |
-| 2 | RPRA 2: Elements of probability theory |
-| 3 | RPRA 3: Probability distributions |
-| 4 | RPRA 3: Probability distributions (cont.) |
-| 5 | RPRA 4: Availability |
-| 6 | RPRA 5: Data and epistemic uncertainties; statistics |
-| 7 | RPRA 6: Probabilistic risk assessment |
-| 8 | RPRA 6: Probabilistic risk assessment (cont.) |
-| 9 | RPRA 7: Risk management |
-| 10 | Guest lecture |
-| 11 | Guest lecture |
-| 12 | RPRA quiz |
-| {{< td-colspan 2 >}}**Part II: Decision analysis (DA)**{{< /td-colspan >}} ||
-| 13 | DA 1: The multistage decision model |
-| 14 | DA 2: The value of perfect information |
-| 15 | DA 3: The axioms of rational behavior |
-| 16 |  {{< br >}}{{< br >}} DA 4: Introduction to utility {{< br >}}{{< br >}} DA 5: Risk aversion {{< br >}}{{< br >}}  |
-| 17 | DA 6: Multiattribute utility theory |
-| 18 | DA7: Decision analysis and risk management |
-| 19 | Guest lecture |
-| 20 | DA quiz |
-| {{< td-colspan 2 >}}**Part III: Cost-benefit analysis (CBA)**{{< /td-colspan >}} ||
-| 21 | CBA 1: Background and fundamental premises |
-| 22 | CBA 2: The time value of money |
-| 23 | CBA 3: Bases for comparison of alternatives |
-| 24 | CBA 4: Including uncertainty |
-| 25 | CBA 5: Evaluating public activities |
-| 26 | Guest lecture |
-| 27 | CBA quiz
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part 1: Reliability and probabilistic risk assessment (RPRA)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+RPRA1: The logic of certainty
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 2: Elements of probability theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 3: Probability distributions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 3: Probability distributions (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 4: Availability
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 5: Data and epistemic uncertainties; statistics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 6: Probabilistic risk assessment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 6: Probabilistic risk assessment (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA 7: Risk management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+RPRA quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Decision analysis (DA)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+DA 1: The multistage decision model
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+DA 2: The value of perfect information
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+DA 3: The axioms of rational behavior
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+DA 4: Introduction to utility
+
+DA 5: Risk aversion
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+DA 6: Multiattribute utility theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+DA7: Decision analysis and risk management
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+DA quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Cost-benefit analysis (CBA)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+CBA 1: Background and fundamental premises
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+CBA 2: The time value of money
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+CBA 3: Bases for comparison of alternatives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+CBA 4: Including uncertainty
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+CBA 5: Evaluating public activities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Guest lecture
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+CBA quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
