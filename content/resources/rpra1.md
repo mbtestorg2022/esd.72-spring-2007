@@ -4,6 +4,7 @@ description: Lecture slides on reliability and probabilistic risk assessment, an
   the logic of certainty.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/81e8caf57f1753e543cc78dad769d9dd_rpra1.pdf
 file_type: application/pdf
+parent_uid: 14865558-19a2-e2de-7c82-d433f2b1f41a
 resourcetype: Document
 title: rpra1.pdf
 uid: 81e8caf5-7f17-53e5-43cc-78dad769d9dd

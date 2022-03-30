@@ -4,6 +4,7 @@ description: Lecture slides on reliability and probabilistic risk assessment, an
   probability distributions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/f4b6483cc1e28cac9de75b2fd2b2ad08_rpra3.pdf
 file_type: application/pdf
+parent_uid: 14865558-19a2-e2de-7c82-d433f2b1f41a
 resourcetype: Document
 title: rpra3.pdf
 uid: f4b6483c-c1e2-8cac-9de7-5b2fd2b2ad08
